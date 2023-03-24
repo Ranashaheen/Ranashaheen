@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ranashaheen
+I am editing the README file. Adding some more details about the project description
+.- 👋 Hi, I’m @Ranashaheen
 - 👀 I’m interested in shopify liquid code.
 - 🌱 I’m currently learning Shopify liquid code.
 - 💞️ I’m looking to collaborate on Liquid.
